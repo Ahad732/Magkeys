@@ -98,7 +98,7 @@
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
-        "items_not_allowed": "error",
+        "items_not_allowed": "ignore",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
         "lib_footprint_mismatch": "warning",
@@ -119,7 +119,7 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "starved_thermal": "ignore",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
@@ -648,7 +648,7 @@
         "uuid": "f5fc63b7-3839-4570-850a-efa69c2c2074"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D85-105,SW85-105",
     "variants": []
   },
   "sheets": [

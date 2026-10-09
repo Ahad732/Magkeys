@@ -1791,6 +1791,12 @@
 		(uuid "01491b55-b282-4a18-bea2-c2ad8ccbc92c")
 	)
 	(junction
+		(at 160.02 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "035a1c25-d1f1-4eb7-90a1-2197acfbe30e")
+	)
+	(junction
 		(at 199.39 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1821,6 +1827,12 @@
 		(uuid "0b538976-05d4-4cfd-a325-a8182597b181")
 	)
 	(junction
+		(at 100.33 274.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d101481-036c-4b05-b2fa-4e95051a822b")
+	)
+	(junction
 		(at 111.76 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1845,6 +1857,12 @@
 		(uuid "10852e55-ed77-41e9-84d9-4fcb8d0a11b0")
 	)
 	(junction
+		(at 127 307.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10e82f89-4c2e-4617-bef1-f39a42c8cd35")
+	)
+	(junction
 		(at 280.67 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1861,6 +1879,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12a97004-5dc5-4b6b-b5d8-207a08896a5d")
+	)
+	(junction
+		(at 143.51 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13bab5fd-d6df-48aa-8c92-cbec70417353")
+	)
+	(junction
+		(at 116.84 294.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1423122a-b6ff-4d7b-822a-d404fd2eafd6")
 	)
 	(junction
 		(at 151.13 156.21)
@@ -1905,6 +1935,12 @@
 		(uuid "1e9a1e7f-9000-44b6-8f0d-fd6f02540552")
 	)
 	(junction
+		(at 143.51 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ec11af3-8dde-40dd-9763-f932134718ae")
+	)
+	(junction
 		(at 176.53 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1947,6 +1983,12 @@
 		(uuid "2a7c6699-1a65-400c-93dd-d2fda2f3bc8a")
 	)
 	(junction
+		(at 116.84 274.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c8169c6-9ea5-403b-be90-f7bfa347995f")
+	)
+	(junction
 		(at 151.13 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1975,6 +2017,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "325595e4-17cd-41e4-a0c8-a23d6e7fa635")
+	)
+	(junction
+		(at 116.84 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33ef1011-54db-41d8-b5ec-3ddb8eec00d4")
+	)
+	(junction
+		(at 127 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "354165d9-e12d-4ef6-9df2-571f690e30eb")
 	)
 	(junction
 		(at 134.62 95.25)
@@ -2061,6 +2115,12 @@
 		(uuid "4df5a115-ae35-4a23-862b-30e24c7e5e20")
 	)
 	(junction
+		(at 127 266.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ea5109c-afe2-47cb-8ad4-107cb9c08a66")
+	)
+	(junction
 		(at 295.91 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2095,6 +2155,30 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57a50f62-0243-4309-bfc4-cf2d07a4d34a")
+	)
+	(junction
+		(at 143.51 266.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5939b7ff-a7a5-4d7e-bf53-5baa63b5dead")
+	)
+	(junction
+		(at 110.49 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a66486d-29b8-425c-a3fa-f275087c0677")
+	)
+	(junction
+		(at 127 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e2eff6e-3ef9-4b3b-814b-f50775e67e14")
+	)
+	(junction
+		(at 133.35 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f890e8a-2119-4768-9ce2-fbead37848d0")
 	)
 	(junction
 		(at 101.6 176.53)
@@ -2151,6 +2235,12 @@
 		(uuid "67f0fbc6-2255-404e-8268-f6613dd89084")
 	)
 	(junction
+		(at 110.49 307.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c3744b9-da68-4cfb-ad47-f09f49852ed8")
+	)
+	(junction
 		(at 241.3 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2161,6 +2251,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e1300e5-33f7-47ae-bb51-601ddcbce589")
+	)
+	(junction
+		(at 100.33 294.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e9c2f96-ffd9-4ce3-b4a4-9046d407b737")
+	)
+	(junction
+		(at 100.33 334.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72f07ddb-82e2-48de-b81b-abb98e8e0629")
 	)
 	(junction
 		(at 166.37 135.89)
@@ -2227,6 +2329,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b278786-f5e6-4dcb-b9ec-1c77571cca9e")
+	)
+	(junction
+		(at 133.35 274.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bd9a6e1-68b8-4542-845b-4257364b9879")
 	)
 	(junction
 		(at 257.81 128.27)
@@ -2529,6 +2637,18 @@
 		(uuid "cf4bd8b1-faf7-465f-94a4-31b96a39fccd")
 	)
 	(junction
+		(at 133.35 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0479575-2403-4bf8-9148-9bbfcfbd01a8")
+	)
+	(junction
+		(at 110.49 266.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d073192c-820e-44a2-b9a6-e43056f5fd62")
+	)
+	(junction
 		(at 306.07 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2551,6 +2671,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d456bf9b-2b79-4569-9e30-bb3d0d5cd9ed")
+	)
+	(junction
+		(at 160.02 266.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d75cf98b-91a2-40fd-bb9a-a326a9976fa8")
 	)
 	(junction
 		(at 322.58 67.31)
@@ -2607,10 +2733,28 @@
 		(uuid "db57b39c-0f50-4840-887d-3bbb1cf66edf")
 	)
 	(junction
+		(at 116.84 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db9f3695-b489-48af-8605-dcb6c7668ad0")
+	)
+	(junction
+		(at 100.33 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfbd10d0-6aed-42e6-a4d0-807cf579ea0d")
+	)
+	(junction
 		(at 151.13 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e233b2d8-8abb-42fd-adf7-83e46ae440f7")
+	)
+	(junction
+		(at 100.33 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2d3b4d9-da92-457d-9fb0-acb3ac371644")
 	)
 	(junction
 		(at 295.91 95.25)
@@ -2660,21 +2804,31 @@
 		(color 0 0 0 0)
 		(uuid "f49120ef-b1a5-457e-879e-42558626ea2e")
 	)
-	(no_connect
-		(at 533.4 124.46)
-		(uuid "37e43734-8819-4bf0-bf7d-4d130ed8828b")
+	(junction
+		(at 110.49 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd572403-ac97-4464-bd7e-ffc6d2fb7562")
 	)
 	(no_connect
-		(at 487.68 88.9)
+		(at 438.15 114.3)
+		(uuid "09567807-3930-4c19-acb0-7d5121334231")
+	)
+	(no_connect
+		(at 410.21 68.58)
+		(uuid "3838f12b-dc46-4743-aa61-20f86f15e17e")
+	)
+	(no_connect
+		(at 392.43 86.36)
+		(uuid "5bd961ee-77de-42c3-a562-224422310a40")
+	)
+	(no_connect
+		(at 392.43 83.82)
 		(uuid "a9c714e1-1c4b-483a-884c-3f6118c14253")
 	)
 	(no_connect
-		(at 533.4 129.54)
+		(at 438.15 124.46)
 		(uuid "b2c06df9-9d8e-4de4-b9fa-aa528905214e")
-	)
-	(no_connect
-		(at 533.4 127)
-		(uuid "e4a30d69-70ee-4aa1-a0c5-be33b4cbb29d")
 	)
 	(wire
 		(pts
@@ -2685,6 +2839,16 @@
 			(type default)
 		)
 		(uuid "012983c8-c82d-4395-b8e0-aa45fd7e468a")
+	)
+	(wire
+		(pts
+			(xy 133.35 255.27) (xy 149.86 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01ea054f-4e5e-4305-95eb-fd8142e7b9c8")
 	)
 	(wire
 		(pts
@@ -2708,6 +2872,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 326.39) (xy 110.49 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09987bff-6547-41ed-8f35-973209dccd3d")
+	)
+	(wire
+		(pts
 			(xy 111.76 67.31) (xy 111.76 87.63)
 		)
 		(stroke
@@ -2715,6 +2889,16 @@
 			(type default)
 		)
 		(uuid "09fdc180-5e62-4bba-9996-9ae693667737")
+	)
+	(wire
+		(pts
+			(xy 160.02 231.14) (xy 160.02 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b3cf477-65db-4511-be22-b006fa52d22d")
 	)
 	(wire
 		(pts
@@ -2878,6 +3062,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 255.27) (xy 100.33 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19bdfecf-015c-4451-b8f0-0d5a0e32ce2e")
+	)
+	(wire
+		(pts
 			(xy 226.06 87.63) (xy 226.06 107.95)
 		)
 		(stroke
@@ -2885,6 +3079,16 @@
 			(type default)
 		)
 		(uuid "1ba145c0-2d35-4661-8ea1-c41f8cb2a8d3")
+	)
+	(wire
+		(pts
+			(xy 83.82 334.01) (xy 100.33 334.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cba6274-8cb4-4e2b-8996-772c37ebab10")
 	)
 	(wire
 		(pts
@@ -2955,6 +3159,16 @@
 			(type default)
 		)
 		(uuid "2457c9f1-6352-468c-8d52-e01d4a0d58ce")
+	)
+	(wire
+		(pts
+			(xy 100.33 314.96) (xy 116.84 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2576c680-ba57-45a3-8ff4-fbafdd5e5afc")
 	)
 	(wire
 		(pts
@@ -3098,6 +3312,26 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 247.65) (xy 110.49 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "338a2518-c243-4a5c-aae0-018d309abf24")
+	)
+	(wire
+		(pts
+			(xy 100.33 274.32) (xy 116.84 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "345c6483-d5de-4f35-b089-11e59a8b6d7e")
+	)
+	(wire
+		(pts
 			(xy 274.32 50.8) (xy 279.4 50.8)
 		)
 		(stroke
@@ -3108,6 +3342,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 314.96) (xy 149.86 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35c78c91-0e8a-4dcf-8bad-b12565426ad1")
+	)
+	(wire
+		(pts
 			(xy 215.9 74.93) (xy 231.14 74.93)
 		)
 		(stroke
@@ -3115,6 +3359,16 @@
 			(type default)
 		)
 		(uuid "36fb4483-ae78-480c-978d-26ae1665eca9")
+	)
+	(wire
+		(pts
+			(xy 143.51 307.34) (xy 143.51 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38e8b291-b46f-400b-8d02-14cf8bae6d3b")
 	)
 	(wire
 		(pts
@@ -3205,6 +3459,16 @@
 			(type default)
 		)
 		(uuid "45970b13-3e74-4193-8e98-94061b510ac3")
+	)
+	(wire
+		(pts
+			(xy 143.51 231.14) (xy 153.67 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "473033f6-cec0-420b-8e11-c1afcf7b73f7")
 	)
 	(wire
 		(pts
@@ -3338,6 +3602,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 294.64) (xy 100.33 294.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5760add9-6766-4016-941b-98185477e8b3")
+	)
+	(wire
+		(pts
 			(xy 295.91 135.89) (xy 312.42 135.89)
 		)
 		(stroke
@@ -3355,6 +3629,36 @@
 			(type default)
 		)
 		(uuid "589c4358-a147-4e21-939b-5425aa58484b")
+	)
+	(wire
+		(pts
+			(xy 127 247.65) (xy 127 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58e4b68e-7e5d-40a8-b5c5-a16875947a66")
+	)
+	(wire
+		(pts
+			(xy 127 307.34) (xy 127 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a1cbdaf-a609-439d-b8ea-61684a94cc74")
+	)
+	(wire
+		(pts
+			(xy 127 326.39) (xy 127 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c8c7579-a2e3-401a-b871-574efb9059d0")
 	)
 	(wire
 		(pts
@@ -3385,6 +3689,16 @@
 			(type default)
 		)
 		(uuid "61819175-7d5f-4ee3-b77c-e9bea04387d9")
+	)
+	(wire
+		(pts
+			(xy 116.84 314.96) (xy 133.35 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61f2bf4c-643a-422d-b0e0-433c3c689f34")
 	)
 	(wire
 		(pts
@@ -3425,6 +3739,16 @@
 			(type default)
 		)
 		(uuid "69fc3669-34a3-4b70-bae8-54a1edf35564")
+	)
+	(wire
+		(pts
+			(xy 160.02 247.65) (xy 160.02 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a6bd90a-52db-4f45-86df-9f551534770c")
 	)
 	(wire
 		(pts
@@ -3628,6 +3952,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 247.65) (xy 143.51 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85152903-2d77-49ec-bdc7-24e711545fb5")
+	)
+	(wire
+		(pts
 			(xy 290.83 107.95) (xy 290.83 128.27)
 		)
 		(stroke
@@ -3685,6 +4019,16 @@
 			(type default)
 		)
 		(uuid "893c9811-9e86-4b2d-8b01-86e768b32b9b")
+	)
+	(wire
+		(pts
+			(xy 116.84 274.32) (xy 133.35 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "899a36e2-2aca-421b-8744-6f638849f4ab")
 	)
 	(wire
 		(pts
@@ -3848,6 +4192,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 231.14) (xy 170.18 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e3c34c0-4047-452b-b4b0-d1e8d6ec53a4")
+	)
+	(wire
+		(pts
 			(xy 312.42 74.93) (xy 328.93 74.93)
 		)
 		(stroke
@@ -3878,6 +4232,26 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 247.65) (xy 143.51 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a08dfd08-0671-4249-98e0-7c359bfcc578")
+	)
+	(wire
+		(pts
+			(xy 83.82 314.96) (xy 100.33 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a19c746f-da86-4ecd-be7e-f59818318774")
+	)
+	(wire
+		(pts
 			(xy 290.83 128.27) (xy 290.83 148.59)
 		)
 		(stroke
@@ -3885,6 +4259,16 @@
 			(type default)
 		)
 		(uuid "a4954df2-9066-49af-9cff-6976f26512eb")
+	)
+	(wire
+		(pts
+			(xy 116.84 294.64) (xy 133.35 294.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5079c58-8a57-411b-9d87-e92d39da6e57")
 	)
 	(wire
 		(pts
@@ -3948,6 +4332,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 247.65) (xy 127 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac9d0751-7b95-4018-ac72-dabb3804d2f2")
+	)
+	(wire
+		(pts
 			(xy 215.9 156.21) (xy 231.14 156.21)
 		)
 		(stroke
@@ -3955,6 +4349,16 @@
 			(type default)
 		)
 		(uuid "accafdf7-55e2-49c9-aed5-d59bbecf8f04")
+	)
+	(wire
+		(pts
+			(xy 110.49 287.02) (xy 110.49 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b09253e7-81d0-472c-9813-f38f92a4430d")
 	)
 	(wire
 		(pts
@@ -3988,6 +4392,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 231.14) (xy 120.65 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b73fcb2c-e27a-4e01-bd37-4ba7aac060c6")
+	)
+	(wire
+		(pts
 			(xy 151.13 176.53) (xy 166.37 176.53)
 		)
 		(stroke
@@ -4008,6 +4422,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 307.34) (xy 160.02 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbad7b18-0548-4d46-8bb6-c87335a49014")
+	)
+	(wire
+		(pts
 			(xy 151.13 95.25) (xy 166.37 95.25)
 		)
 		(stroke
@@ -4015,6 +4439,16 @@
 			(type default)
 		)
 		(uuid "bda1e885-0d34-4003-a5d5-9241ca51ef84")
+	)
+	(wire
+		(pts
+			(xy 110.49 247.65) (xy 110.49 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be858c7b-8841-436d-95e4-470d5175a22c")
 	)
 	(wire
 		(pts
@@ -4168,6 +4602,26 @@
 	)
 	(wire
 		(pts
+			(xy 127 231.14) (xy 137.16 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb9b84f1-ee27-453d-9390-a09d34d15280")
+	)
+	(wire
+		(pts
+			(xy 133.35 274.32) (xy 149.86 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccb1c34b-8ca9-495a-8bc4-02e120d3d986")
+	)
+	(wire
+		(pts
 			(xy 161.29 87.63) (xy 161.29 107.95)
 		)
 		(stroke
@@ -4228,6 +4682,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 255.27) (xy 116.84 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4d7f759-01d4-45f8-a50d-d022ff41f6d8")
+	)
+	(wire
+		(pts
 			(xy 193.04 148.59) (xy 193.04 168.91)
 		)
 		(stroke
@@ -4265,6 +4729,16 @@
 			(type default)
 		)
 		(uuid "d91e63a0-efa7-4652-bfc0-b9d24283457e")
+	)
+	(wire
+		(pts
+			(xy 143.51 287.02) (xy 143.51 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d93e8a8a-45ab-47b9-a028-3849180f7bcd")
 	)
 	(wire
 		(pts
@@ -4318,6 +4792,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 334.01) (xy 116.84 334.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda837b4-a002-4378-8e32-6dd5d51be4ae")
+	)
+	(wire
+		(pts
 			(xy 193.04 50.8) (xy 193.04 67.31)
 		)
 		(stroke
@@ -4345,6 +4829,26 @@
 			(type default)
 		)
 		(uuid "e09f0928-cc2b-437c-98f1-bd09e40ebdc6")
+	)
+	(wire
+		(pts
+			(xy 100.33 294.64) (xy 116.84 294.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6e16468-8142-4e6d-bea1-d7b51b9e842a")
+	)
+	(wire
+		(pts
+			(xy 127 287.02) (xy 127 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb06f390-c3d6-49ac-81be-eff6e6fe0110")
 	)
 	(wire
 		(pts
@@ -4378,6 +4882,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 255.27) (xy 133.35 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef2a8cd1-517c-4fc3-9b6a-6bc1139fe426")
+	)
+	(wire
+		(pts
 			(xy 161.29 148.59) (xy 161.29 168.91)
 		)
 		(stroke
@@ -4385,6 +4899,16 @@
 			(type default)
 		)
 		(uuid "efcaef24-2f94-4d82-a795-4afc8ff31b4e")
+	)
+	(wire
+		(pts
+			(xy 110.49 307.34) (xy 110.49 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f050b2c6-46d6-40a2-bcd5-47b5247e6c1c")
 	)
 	(wire
 		(pts
@@ -4458,6 +4982,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 274.32) (xy 100.33 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f816665f-07ee-45e5-bce3-7571b374fc18")
+	)
+	(wire
+		(pts
 			(xy 322.58 87.63) (xy 322.58 107.95)
 		)
 		(stroke
@@ -4526,8 +5060,18 @@
 		)
 		(uuid "03cd1620-3d87-4607-8910-0d8fd3db3181")
 	)
+	(label "NUM_ROW2"
+		(at 83.82 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06bded7e-3ced-4fcc-bbbb-967fd94198c4")
+	)
 	(label "COL6"
-		(at 533.4 99.06 0)
+		(at 438.15 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4547,7 +5091,7 @@
 		(uuid "12fba0c4-8544-4f4d-be8c-1585ba4bbe29")
 	)
 	(label "COL1"
-		(at 533.4 111.76 0)
+		(at 438.15 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4567,7 +5111,7 @@
 		(uuid "1a24a9db-91e2-494d-99a8-8f14cd572c0f")
 	)
 	(label "ROW16"
-		(at 487.68 96.52 180)
+		(at 392.43 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4577,7 +5121,7 @@
 		(uuid "1c19ebac-cc8e-42f5-8cb1-1f428446189a")
 	)
 	(label "ROW8"
-		(at 487.68 116.84 180)
+		(at 392.43 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4587,7 +5131,7 @@
 		(uuid "216abae3-a395-4db0-a8b5-0211152080f4")
 	)
 	(label "ROW14"
-		(at 487.68 101.6 180)
+		(at 392.43 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4596,8 +5140,18 @@
 		)
 		(uuid "21f066f7-9b4c-487c-9a3d-82f165f7f5e0")
 	)
+	(label "NUM_COL4"
+		(at 170.18 231.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "27f52773-8c0b-4072-ab04-8c33d1772ce5")
+	)
 	(label "ROW13"
-		(at 487.68 104.14 180)
+		(at 392.43 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4627,7 +5181,7 @@
 		(uuid "35a40b7f-7a90-4164-927d-22a325101a2d")
 	)
 	(label "ROW6"
-		(at 487.68 121.92 180)
+		(at 392.43 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4656,8 +5210,28 @@
 		)
 		(uuid "45299fdf-e10e-4290-82dd-e4495729770c")
 	)
+	(label "NUM_ROW3"
+		(at 83.82 294.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a683710-3db9-4701-8e48-0eabf0f95993")
+	)
+	(label "NUM_ROW1"
+		(at 83.82 255.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f591ddf-5bd1-4b88-85e0-4861031f99dd")
+	)
 	(label "COL2"
-		(at 533.4 109.22 0)
+		(at 438.15 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4676,6 +5250,16 @@
 		)
 		(uuid "61465962-15f4-49f4-aa1b-e744a28c4fda")
 	)
+	(label "NUM_COL2"
+		(at 137.16 231.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "67800700-0870-4a1e-81f4-072761bb2824")
+	)
 	(label "COL3"
 		(at 78.74 115.57 0)
 		(effects
@@ -4686,8 +5270,18 @@
 		)
 		(uuid "6bde8ad3-9983-4e01-9125-1fa0be639e17")
 	)
+	(label "NUM_COL3"
+		(at 153.67 231.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6ed29437-0a07-46f7-a057-3c28b44900b9")
+	)
 	(label "ROW11"
-		(at 487.68 109.22 180)
+		(at 392.43 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4716,8 +5310,18 @@
 		)
 		(uuid "817de7a6-dcd5-4060-b5fe-8f99b3177f49")
 	)
+	(label "NUM_ROW4"
+		(at 83.82 314.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8bf69185-fcf8-47ed-85be-a4248c399d18")
+	)
 	(label "COL5"
-		(at 533.4 101.6 0)
+		(at 438.15 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4726,8 +5330,18 @@
 		)
 		(uuid "90b08ccd-5ac7-46c3-8418-35cd0b9073fd")
 	)
+	(label "NUM_COL1"
+		(at 120.65 231.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "93e46938-3eea-4c15-a7e4-4c7b1a56aa65")
+	)
 	(label "COL3"
-		(at 533.4 106.68 0)
+		(at 438.15 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4747,7 +5361,7 @@
 		(uuid "9f8a4e5d-fc7f-41fd-a82a-032e1c7e037d")
 	)
 	(label "ROW10"
-		(at 487.68 111.76 180)
+		(at 392.43 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4777,7 +5391,7 @@
 		(uuid "a2f1ae4d-dd55-46a6-9b19-5e20b13ba11e")
 	)
 	(label "ROW4"
-		(at 487.68 127 180)
+		(at 392.43 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4787,7 +5401,7 @@
 		(uuid "a67d1b90-479d-45ad-b0fb-9f0888a9bf69")
 	)
 	(label "ROW12"
-		(at 487.68 106.68 180)
+		(at 392.43 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4796,8 +5410,18 @@
 		)
 		(uuid "a6eb36bf-12c9-4242-9ace-9fbd725d2320")
 	)
+	(label "NUM_ROW5"
+		(at 83.82 334.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a6f2c6bc-753a-4666-a761-d5ecc4a01a2b")
+	)
 	(label "ROW15"
-		(at 487.68 99.06 180)
+		(at 392.43 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4807,7 +5431,7 @@
 		(uuid "a7c7d4ef-93be-4049-9e7c-642f1399cd40")
 	)
 	(label "ROW9"
-		(at 487.68 114.3 180)
+		(at 392.43 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4827,7 +5451,7 @@
 		(uuid "ac961b57-f58a-4297-9367-bc45d55e70f6")
 	)
 	(label "ROW7"
-		(at 487.68 119.38 180)
+		(at 392.43 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4847,7 +5471,7 @@
 		(uuid "c2885333-0f63-4f2c-b24d-2ea5e6d99b0a")
 	)
 	(label "ROW3"
-		(at 487.68 129.54 180)
+		(at 392.43 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4857,7 +5481,7 @@
 		(uuid "c53e1d73-5a33-44b1-9486-b49ea03dfb8b")
 	)
 	(label "ROW1"
-		(at 487.68 134.62 180)
+		(at 392.43 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4867,7 +5491,7 @@
 		(uuid "c91603a1-0396-42dc-bed8-a4cb8e9124e7")
 	)
 	(label "COL4"
-		(at 533.4 104.14 0)
+		(at 438.15 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4897,7 +5521,7 @@
 		(uuid "db5fe762-65d0-4461-b428-8e78e9c9bb03")
 	)
 	(label "ROW2"
-		(at 487.68 132.08 180)
+		(at 392.43 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4917,7 +5541,7 @@
 		(uuid "e49f5ed3-62cd-43be-b601-7cb9c3ee772a")
 	)
 	(label "ROW5"
-		(at 487.68 124.46 180)
+		(at 392.43 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5427,6 +6051,349 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
+		(at 100.33 270.51 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "09bbf79a-c06e-4b9a-985d-7ec22636f5b2")
+		(property "Reference" "D89"
+			(at 103.378 271.018 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 100.584 273.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 104.775 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 100.33 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 100.33 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "222a02ef-ab65-42fd-9c5d-00237a0a16b7")
+		)
+		(pin "1"
+			(uuid "6acbd823-791a-46fe-b0ae-a54f58e3f17b")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 105.41 326.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b2d5f00-c11e-431d-ba9d-e9a2acf4952f")
+		(property "Reference" "SW100"
+			(at 105.41 318.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 105.41 321.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Plate"
+			(at 105.41 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 105.41 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "98d9dc6b-ecd8-4733-9514-d0c8213b1460")
+		)
+		(pin "2"
+			(uuid "14bbc17a-1bbb-4a15-9ed3-564caa63e3e0")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 105.41 266.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cd78a53-7261-4529-93bc-f743c1a564a9")
+		(property "Reference" "SW89"
+			(at 105.41 259.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 105.41 261.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 105.41 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 105.41 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "df204166-146d-4c88-a33b-a47429a2b02f")
+		)
+		(pin "2"
+			(uuid "5120812a-c8d1-4a75-9f87-7f3fd6502034")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 121.92 307.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e633010-cbfc-42e3-81d7-d5c000452182")
+		(property "Reference" "SW97"
+			(at 121.92 299.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 121.92 302.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 121.92 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 121.92 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "81085ebc-b59f-4ba3-af9b-f58f7c1c5ca4")
+		)
+		(pin "2"
+			(uuid "686ca862-0acf-44f5-b4a6-91227ee412ca")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW97")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
 		(at 182.88 91.44 90)
 		(unit 1)
 		(body_style 1)
@@ -5763,6 +6730,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 100.33 251.46 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1622781d-2b91-44bc-b304-d57b5d0ad0e9")
+		(property "Reference" "D85"
+			(at 103.378 251.968 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 100.584 254 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 104.775 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 100.33 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 100.33 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ed20b32e-fe4b-4106-9851-addb165065eb")
+		)
+		(pin "1"
+			(uuid "fc367a19-6695-4742-a16f-adbbf1fa5f88")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D85")
 					(unit 1)
 				)
 			)
@@ -6392,6 +7462,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 116.84 311.15 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "227610a1-aa7b-46ba-996a-2c205569334f")
+		(property "Reference" "D97"
+			(at 119.888 311.658 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 117.094 313.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 121.285 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 116.84 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 116.84 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 116.84 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 116.84 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0abf59c3-cd78-4d9d-9c4b-bd1a594e7f4b")
+		)
+		(pin "1"
+			(uuid "06c9ece3-77b4-442e-9872-53f75972971e")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D97")
 					(unit 1)
 				)
 			)
@@ -7382,6 +8555,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 100.33 330.2 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2e654dcd-6693-4845-ac1d-051034d3e794")
+		(property "Reference" "D100"
+			(at 103.378 330.708 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 100.584 332.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 104.775 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 100.33 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 100.33 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "81869423-239d-4b94-bdfa-5ec0f416f20f")
+		)
+		(pin "1"
+			(uuid "168978d4-b508-44b9-a071-708c73a8ceda")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 171.45 128.27 0)
 		(unit 1)
@@ -7559,6 +8835,86 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "D59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 121.92 326.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30e24a90-8d8a-4379-9df3-725d01869e7e")
+		(property "Reference" "SW101"
+			(at 121.92 318.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 121.92 321.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 121.92 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 121.92 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5c67d739-b44a-4e37-b790-d86c22680ba9")
+		)
+		(pin "2"
+			(uuid "435dc294-404b-45d5-804e-fb27fa8e4967")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW101")
 					(unit 1)
 				)
 			)
@@ -8458,6 +9814,86 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 121.92 287.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b3506f1-4ec5-4b1f-8d30-18caa06193cc")
+		(property "Reference" "SW94"
+			(at 121.92 279.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 121.92 281.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 121.92 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 121.92 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "877352de-aba2-4751-a72e-9bc647b54fd7")
+		)
+		(pin "2"
+			(uuid "1c6227fe-def1-4a7d-8251-653593406ff5")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 123.19 148.59 0)
 		(unit 1)
 		(body_style 1)
@@ -8531,6 +9967,86 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 105.41 287.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3fc4191a-bd96-4d9d-93b9-d64c32fdc447")
+		(property "Reference" "SW93"
+			(at 105.41 279.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 105.41 281.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 105.41 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 105.41 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "17358f38-c7db-434e-90af-d59c2fc31175")
+		)
+		(pin "2"
+			(uuid "01040db8-a815-45fd-bd6d-529ed6bde45e")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW93")
 					(unit 1)
 				)
 			)
@@ -9647,7 +11163,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 515.62 73.66 0)
+		(at 420.37 68.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9658,7 +11174,7 @@
 		(fields_autoplaced yes)
 		(uuid "57126575-1a10-4ce0-b33e-a221250f7366")
 		(property "Reference" "#PWR04"
-			(at 515.62 77.47 0)
+			(at 420.37 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9669,7 +11185,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 515.62 68.58 0)
+			(at 420.37 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9679,7 +11195,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 515.62 73.66 0)
+			(at 420.37 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9690,7 +11206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 515.62 73.66 0)
+			(at 420.37 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9701,7 +11217,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 515.62 73.66 0)
+			(at 420.37 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9901,6 +11417,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 100.33 311.15 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "58f9fe0a-64e6-4c23-8e81-34f9afa142fb")
+		(property "Reference" "D96"
+			(at 103.378 311.658 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 100.584 313.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 104.775 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 100.33 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 100.33 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4f4f3196-8608-40d4-8bd4-5f8b9202765e")
+		)
+		(pin "1"
+			(uuid "322069bb-1bab-4fe9-b4f5-ab64206aac2b")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D96")
 					(unit 1)
 				)
 			)
@@ -10171,7 +11790,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 510.54 73.66 0)
+		(at 415.29 68.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10182,7 +11801,7 @@
 		(fields_autoplaced yes)
 		(uuid "5dd5a685-2631-49fb-b171-7ce85b0b0ca3")
 		(property "Reference" "#PWR03"
-			(at 510.54 77.47 0)
+			(at 415.29 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10193,7 +11812,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 510.54 68.58 0)
+			(at 415.29 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10203,7 +11822,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 510.54 73.66 0)
+			(at 415.29 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10214,7 +11833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 510.54 73.66 0)
+			(at 415.29 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10225,7 +11844,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 510.54 73.66 0)
+			(at 415.29 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10242,6 +11861,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 133.35 270.51 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5e6f0ac8-1207-4ba8-9198-31b50298faae")
+		(property "Reference" "D91"
+			(at 136.398 271.018 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 133.604 273.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 137.795 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 133.35 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 133.35 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 133.35 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 133.35 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "493bde97-6fa0-48f7-baed-e6cbb9933a0f")
+		)
+		(pin "1"
+			(uuid "ef88c560-6490-4b6a-9fc9-096cf1f83029")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D91")
 					(unit 1)
 				)
 			)
@@ -10901,6 +12623,86 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 138.43 266.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61eab362-466c-4e11-a4ca-b19d62948aae")
+		(property "Reference" "SW91"
+			(at 138.43 259.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 138.43 261.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 138.43 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0ab836b5-00f8-4c12-8a32-a457b37ed54d")
+		)
+		(pin "2"
+			(uuid "0820dec5-d313-4733-9b78-c4c4d6e25c60")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW91")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 156.21 87.63 0)
 		(unit 1)
 		(body_style 1)
@@ -10974,6 +12776,189 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 116.84 270.51 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "62538b9b-e414-4525-b062-0946bd138f7f")
+		(property "Reference" "D90"
+			(at 119.888 271.018 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 117.094 273.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 121.285 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 116.84 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 116.84 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 116.84 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 116.84 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ca64734a-3a25-4eb7-b37f-1cea9658e87d")
+		)
+		(pin "1"
+			(uuid "e82c2e57-2357-4fe4-bdf3-c31db248913b")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 247.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62a2e80d-827d-4522-8d46-9e6d62c1e1f7")
+		(property "Reference" "SW87"
+			(at 138.43 240.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 138.43 242.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 138.43 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4d03ca69-9519-415b-a4c5-4f36348c302d")
+		)
+		(pin "2"
+			(uuid "c6a7040e-a0b0-4621-ba16-5a94e8f0fcce")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW87")
 					(unit 1)
 				)
 			)
@@ -11683,6 +13668,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 116.84 330.2 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6ad8d3c5-cffc-4b21-badb-d09ecd1b9509")
+		(property "Reference" "D101"
+			(at 119.888 330.708 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 117.094 332.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 121.285 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 116.84 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 116.84 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 116.84 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 116.84 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f70a2a90-e6b1-49be-a20d-c4130f4598a4")
+		)
+		(pin "1"
+			(uuid "490b63a3-def0-44cc-aa0e-8a030a0f7abf")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D101")
 					(unit 1)
 				)
 			)
@@ -12914,7 +15002,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 510.54 147.32 0)
+		(at 415.29 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12925,7 +15013,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b2354ed-35d3-463a-a967-015140627639")
 		(property "Reference" "#PWR01"
-			(at 510.54 153.67 0)
+			(at 415.29 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12936,7 +15024,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 510.54 152.4 0)
+			(at 415.29 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12946,7 +15034,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 510.54 147.32 0)
+			(at 415.29 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12957,7 +15045,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 510.54 147.32 0)
+			(at 415.29 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12968,7 +15056,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 510.54 147.32 0)
+			(at 415.29 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13168,6 +15256,86 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 287.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bb90ae1-2844-4df0-9a30-f9a98fa7595d")
+		(property "Reference" "SW95"
+			(at 138.43 279.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 138.43 281.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 138.43 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "34676207-2219-4a39-8bfe-57fb40493638")
+		)
+		(pin "2"
+			(uuid "a6941213-9256-41ec-a671-0ccf5882e3b8")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW95")
 					(unit 1)
 				)
 			)
@@ -13637,6 +15805,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "D55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 133.35 251.46 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "809bb6ff-af67-42f3-8d05-335609e7bb52")
+		(property "Reference" "D87"
+			(at 136.398 251.968 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 133.604 254 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 137.795 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 133.35 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 133.35 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 133.35 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 133.35 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e39fc12a-cba3-4f9e-8516-72965892a705")
+		)
+		(pin "1"
+			(uuid "be22dfc7-3c3f-4585-b09e-6d42cfe33aa6")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D87")
 					(unit 1)
 				)
 			)
@@ -14209,6 +16480,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 116.84 290.83 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8ad69c7b-d6b7-4b51-952e-26eaca4092ad")
+		(property "Reference" "D94"
+			(at 119.888 291.338 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 117.094 293.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 121.285 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 116.84 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 116.84 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 116.84 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 116.84 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b8e66639-f272-4353-86d8-96d8f7a4a894")
+		)
+		(pin "1"
+			(uuid "b73dc122-1574-4146-afa4-59203b762a8f")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D94")
 					(unit 1)
 				)
 			)
@@ -15450,6 +17824,212 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 100.33 290.83 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a3a5de52-0a8c-4ec9-9025-abb8fb9b6321")
+		(property "Reference" "D93"
+			(at 103.378 291.338 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 100.584 293.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 104.775 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 100.33 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 100.33 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1c8343b9-a6c3-4fb0-b0b7-98c4988d430c")
+		)
+		(pin "1"
+			(uuid "2fa98c9c-a09d-486a-8954-1d3823cf4c3a")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D93")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 149.86 251.46 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a4a8cb2b-66e2-44ac-b8e8-52a0fcc7909c")
+		(property "Reference" "D88"
+			(at 152.908 251.968 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 150.114 254 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 154.305 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 149.86 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 149.86 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 149.86 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 149.86 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "645ee3eb-a67b-410e-a25f-56744137b5de")
+		)
+		(pin "1"
+			(uuid "0f2da2d7-e3b6-4c0a-896c-5719e46dee3a")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 236.22 67.31 0)
 		(unit 1)
@@ -15833,6 +18413,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "D41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 149.86 311.15 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aa799b55-fb6f-43ec-8a5f-10da6e4e3e12")
+		(property "Reference" "D99"
+			(at 152.908 311.658 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 150.114 313.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 154.305 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 149.86 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 149.86 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 149.86 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 149.86 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "44ffeaa7-caae-4f4d-8378-448564ed9609")
+		)
+		(pin "1"
+			(uuid "f236cc54-eccf-4684-9585-8720ecc49519")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D99")
 					(unit 1)
 				)
 			)
@@ -16492,6 +19175,109 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
+		(at 116.84 251.46 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b423653a-bc77-46cd-bca9-bdb175eabf67")
+		(property "Reference" "D86"
+			(at 119.888 251.968 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 117.094 254 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 121.285 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 116.84 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 116.84 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 116.84 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 116.84 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e1945760-e053-4615-9bbe-84f6a7f8ee8d")
+		)
+		(pin "1"
+			(uuid "1339a0ed-2339-40ff-ab9f-eea763a1dc33")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D86")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
 		(at 247.65 152.4 90)
 		(unit 1)
 		(body_style 1)
@@ -17064,6 +19850,109 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
+		(at 149.86 270.51 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b7562450-c175-47c8-b4e8-681ec7979054")
+		(property "Reference" "D92"
+			(at 152.908 271.018 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 150.114 273.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 154.305 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 149.86 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 149.86 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 149.86 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 149.86 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c38072f3-53ae-4426-bd1d-ba6a36b8117e")
+		)
+		(pin "1"
+			(uuid "2d3171a9-bdca-4b57-80de-99551d158be9")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
 		(at 118.11 152.4 90)
 		(unit 1)
 		(body_style 1)
@@ -17240,6 +20129,86 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 138.43 307.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be3bc89e-c5d9-415f-ae75-a87b54ab6912")
+		(property "Reference" "SW98"
+			(at 138.43 299.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 138.43 302.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 138.43 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 138.43 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1b2029a8-0367-4665-9375-8bf173e02616")
+		)
+		(pin "2"
+			(uuid "ab4f6ca4-6c1e-44a5-8189-33af26c5380e")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW98")
 					(unit 1)
 				)
 			)
@@ -18195,6 +21164,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 121.92 247.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1b91628-36b4-4e71-aca2-202fbf1c2fe0")
+		(property "Reference" "SW86"
+			(at 121.92 240.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 121.92 242.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 121.92 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 121.92 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4d064e21-6f88-40fe-87aa-c022b0218e75")
+		)
+		(pin "2"
+			(uuid "19ff4cfd-12aa-4829-80bb-d6b51aff8386")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW86")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148W")
 		(at 118.11 132.08 90)
 		(unit 1)
@@ -18401,6 +21450,166 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 154.94 266.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4dd8ea3-b7fe-41c5-904c-5722a90977d9")
+		(property "Reference" "SW92"
+			(at 154.94 259.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 154.94 261.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_Plate"
+			(at 154.94 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 154.94 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fb6c783a-5118-48bf-a875-aa4c718ce53d")
+		)
+		(pin "2"
+			(uuid "537a50fa-567c-4fdb-bb7a-f5a5b2df1e3a")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 154.94 307.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5f21a89-1d12-48db-8dd0-68fc1c0355e7")
+		(property "Reference" "SW99"
+			(at 154.94 299.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 154.94 302.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_Plate"
+			(at 154.94 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 154.94 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1c3f30c1-0048-4757-a108-2e6b741fbb0b")
+		)
+		(pin "2"
+			(uuid "245f2a74-02b7-46ec-889f-c25f0bb0c9d3")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW99")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148W")
 		(at 328.93 71.12 90)
 		(unit 1)
@@ -18601,6 +21810,109 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "D61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 133.35 290.83 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d8a31f18-2047-45da-87a1-4830e78b5814")
+		(property "Reference" "D95"
+			(at 136.398 291.338 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 133.604 293.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 137.795 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 133.35 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 133.35 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 133.35 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 133.35 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "036a1be6-5fb5-4755-8d20-18a405beeddc")
+		)
+		(pin "1"
+			(uuid "f98e4834-6776-4714-a574-5049901eac7b")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D95")
 					(unit 1)
 				)
 			)
@@ -19260,6 +22572,86 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 105.41 247.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e396ff7d-93a8-480d-8ff1-45cbb4cd60f6")
+		(property "Reference" "SW85"
+			(at 105.41 240.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 105.41 242.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 105.41 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 105.41 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "32731536-4bc2-45ce-86ec-9ea6acd48aad")
+		)
+		(pin "2"
+			(uuid "509df8d3-7804-4823-90ad-b33efaa02acb")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW85")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 156.21 128.27 0)
 		(unit 1)
 		(body_style 1)
@@ -19436,6 +22828,86 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 105.41 307.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb4223b5-38af-4853-97c0-fda90bd2a5bf")
+		(property "Reference" "SW96"
+			(at 105.41 299.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 105.41 302.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 105.41 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 105.41 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "77d50397-b431-46bd-a0d8-37ab7e1d03c2")
+		)
+		(pin "2"
+			(uuid "de7d6aac-1175-4bb8-a50f-49bce6ea4880")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW96")
 					(unit 1)
 				)
 			)
@@ -19649,7 +23121,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Module:RaspberryPi_Pico_W")
-		(at 510.54 111.76 0)
+		(at 415.29 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19660,7 +23132,7 @@
 		(fields_autoplaced yes)
 		(uuid "efe119d6-7c08-45a3-8305-2ef62c6551c1")
 		(property "Reference" "A1"
-			(at 512.6833 146.05 0)
+			(at 417.4333 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19671,7 +23143,7 @@
 			)
 		)
 		(property "Value" "RaspberryPi_Pico_W"
-			(at 512.6833 148.59 0)
+			(at 417.4333 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19682,7 +23154,7 @@
 			)
 		)
 		(property "Footprint" "Module:RaspberryPi_Pico_W_SMD"
-			(at 510.54 158.75 0)
+			(at 415.29 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19693,7 +23165,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf"
-			(at 510.54 161.29 0)
+			(at 415.29 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19704,7 +23176,7 @@
 			)
 		)
 		(property "Description" "Versatile and inexpensive wireless microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash, Infineon CYW43439 2.4GHz 802.11n wireless LAN; also supports Raspberry Pi Pico 2 W"
-			(at 510.54 163.83 0)
+			(at 415.29 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19845,7 +23317,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 533.4 134.62 0)
+		(at 438.15 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19856,7 +23328,7 @@
 		(fields_autoplaced yes)
 		(uuid "f00a3848-fa19-4023-bea8-03009abdfdf9")
 		(property "Reference" "#PWR02"
-			(at 533.4 140.97 0)
+			(at 438.15 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19867,7 +23339,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 533.4 139.7 0)
+			(at 438.15 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19877,7 +23349,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 533.4 134.62 0)
+			(at 438.15 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19888,7 +23360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 533.4 134.62 0)
+			(at 438.15 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19899,7 +23371,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 533.4 134.62 0)
+			(at 438.15 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20019,6 +23491,86 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "D69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 154.94 247.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f1569647-ad5a-42c2-a286-654a03db63cc")
+		(property "Reference" "SW88"
+			(at 154.94 240.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 154.94 242.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 154.94 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 154.94 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d452e9f2-055c-4ff6-860c-3a8d15bd38c0")
+		)
+		(pin "2"
+			(uuid "f05bcd8e-1d19-4e63-a4d0-7d01126e4937")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW88")
 					(unit 1)
 				)
 			)
@@ -20209,6 +23761,109 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
+		(at 133.35 311.15 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f3e9219b-d0e9-42bc-b6d4-ed00c52231ab")
+		(property "Reference" "D98"
+			(at 136.398 311.658 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 133.604 313.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 137.795 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 133.35 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 133.35 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 133.35 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 133.35 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4699c487-63dd-4392-ab0b-dacf39979ded")
+		)
+		(pin "1"
+			(uuid "75cbb342-f4bf-4468-a4df-84afb58d8827")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "D98")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
 		(at 166.37 71.12 90)
 		(unit 1)
 		(body_style 1)
@@ -20385,6 +24040,86 @@
 			(project "Magkeys"
 				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
 					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 121.92 266.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "faf91bf9-8de1-4cc9-a245-ea423a2d856e")
+		(property "Reference" "SW90"
+			(at 121.92 259.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 121.92 261.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
+			(at 121.92 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 121.92 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ef01d3a5-a69e-4707-a584-68510ec4d25c")
+		)
+		(pin "2"
+			(uuid "9cd4ba7b-78b5-479f-9f78-8c6fae7754ce")
+		)
+		(instances
+			(project "Magkeys"
+				(path "/f5fc63b7-3839-4570-850a-efa69c2c2074"
+					(reference "SW90")
 					(unit 1)
 				)
 			)
