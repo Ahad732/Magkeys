@@ -70,7 +70,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|83777321|191300000|F.Cu|4|3096f2e7-b6bd-4d67-a6e0-6519d9cb82f1|9fa11153-b2ea-48e4-b608-9c9dd4465e8e",
+          ""
+        ],
+        [
+          "unconnected_items|93839051|177584000|F.Cu|4|3cd0f7a6-2abf-411d-8660-1ebfeaad1faa|5468a83e-e6c3-4fcb-bbce-391b7e3ed31e",
+          ""
+        ],
+        [
+          "unconnected_items|93839051|180124001|F.Cu|4|b7f5c515-a783-4982-94b4-69be352a3415|79b66830-c50c-4105-a062-dc52f3d39f36",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -101,7 +114,7 @@
         "items_not_allowed": "ignore",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -115,7 +128,7 @@
         "pth_inside_courtyard": "error",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
@@ -156,7 +169,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -648,7 +661,7 @@
         "uuid": "f5fc63b7-3839-4570-850a-efa69c2c2074"
       }
     ],
-    "used_designators": "D85-105,SW85-105",
+    "used_designators": "#PWR5-9,D85-105,SW85-105,U1",
     "variants": []
   },
   "sheets": [
