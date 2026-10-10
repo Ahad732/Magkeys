@@ -69,16 +69,14 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
-        [
-          "unconnected_items|83777321|191300000|F.Cu|4|3096f2e7-b6bd-4d67-a6e0-6519d9cb82f1|9fa11153-b2ea-48e4-b608-9c9dd4465e8e",
-          ""
-        ],
-        [
-          "unconnected_items|93839051|177584000|F.Cu|4|3cd0f7a6-2abf-411d-8660-1ebfeaad1faa|5468a83e-e6c3-4fcb-bbce-391b7e3ed31e",
-          ""
-        ],
         [
           "unconnected_items|93839051|180124001|F.Cu|4|b7f5c515-a783-4982-94b4-69be352a3415|79b66830-c50c-4105-a062-dc52f3d39f36",
           ""
@@ -216,7 +214,10 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -243,7 +244,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -539,6 +545,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "../3d/pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -661,7 +668,7 @@
         "uuid": "f5fc63b7-3839-4570-850a-efa69c2c2074"
       }
     ],
-    "used_designators": "#PWR5-9,D85-105,SW85-105,U1",
+    "used_designators": "#PWR5-9,D85-105,SW85-105,U1,J1",
     "variants": []
   },
   "sheets": [
