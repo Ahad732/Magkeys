@@ -63,7 +63,7 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -76,12 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "unconnected_items|93839051|180124001|F.Cu|4|b7f5c515-a783-4982-94b4-69be352a3415|79b66830-c50c-4105-a062-dc52f3d39f36",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -515,7 +510,7 @@
       {
         "bus_width": 12,
         "clearance": 0.2,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -668,7 +663,7 @@
         "uuid": "f5fc63b7-3839-4570-850a-efa69c2c2074"
       }
     ],
-    "used_designators": "U1-2,#PWR8-20,J2,R1-3,SW103,Y1,C1-2",
+    "used_designators": "U1-3,#PWR5,#PWR8-34,J2-3,R1-7,JP1,SW103-104,Y1,C1-15,L1,H1-8",
     "variants": []
   },
   "sheets": [
