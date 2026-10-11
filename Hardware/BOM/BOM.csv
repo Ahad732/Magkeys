@@ -1,0 +1,24 @@
+Designator,Footprint,Value,Quantity,Price,Link
+A1,RaspberryPi_Pico_W_SMD,RaspberryPi_Pico_W,1,6.71,https://robu.in/product/raspberry-pi-pico-w/
+"C1, C2",402,15p,50,0.08,https://www.lcsc.com/product-detail/C696887.html
+"C10, L1",402,1u,50,0.22,https://www.lcsc.com/product-detail/C2887021.html
+"C11, C12, C13, C3, C4, C5, C6, C7, C8, C9",402,100n,100,0.14,https://www.lcsc.com/product-detail/C285038.html
+"C14, C15",402,10u,20,0.44,https://www.lcsc.com/product-detail/C23692971.html
+D1-D102,D_SOD-123,1N4148W,150,1.26,https://www.lcsc.com/product-detail/C917030.html
+"J1, J3",PinHeader_1x04_P2.54mm_Vertical,Conn_01x04_Pin (pogo connector),2 pairs,3.7,https://probots.co.in/4p-magnetic-spring-loaded-pogo-pin-male-female-connector-socket-2-54-mm-pitch-dip.html
+J2,USB_C_Receptacle_XKB_U262-16XN-4BVC11,USB_C_Receptacle_USB2.0_16P,10,0.53,https://www.lcsc.com/product-detail/C42400252.html
+"R1, R7",402,10k,100,0.07,https://www.lcsc.com/product-detail/C54920614.html
+"R2, R3",402,5.1k,100,0.06,https://www.lcsc.com/product-detail/C54920813.html
+"R4, R5",402,27,100,0.06,https://www.lcsc.com/product-detail/C54920766.html
+R6,402,1k,100,0.07,https://www.lcsc.com/product-detail/C54920633.html
+SW1-SW102,SW_Cherry_MX_1.00u_Plate,SW_Push,1 pack of 110,15.5,https://stackskb.com/store/click-inc-hp-switch-pack-of-110/
+SW103,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles,RotaryEncoder_Switch_MP,2,4.63,https://www.lcsc.com/product-detail/C470753.html
+SW104,SW_SPST_PTS810,SW_Push,5,1.71,https://www.lcsc.com/product-detail/C221895.html
+U1,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,W25Q128JVP,2,6.83,https://www.lcsc.com/product-detail/C190862.html
+U2,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,RP2040,2,2,https://www.lcsc.com/product-detail/C2040.html
+U3,TSOT-23-5,ADP2108AUJ-3.3,2,9.69,https://www.lcsc.com/product-detail/C143875.html
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,12 MHz,10,0.55,https://www.lcsc.com/product-detail/C16197268.html
+,,Keycaps,1,10.32,https://www.amazon.in/ZORBES%C2%AE-Forged-Texture-Mechanical-Keyboard/dp/B0HJ2HFMGP/ref=sr_1_2_sspa
+,,,Parts shipping,7.04,
+,,,PCB+Shipping,28.7,
+,,,Total,100.31,

@@ -9,4 +9,6 @@
 
  # 11 October 2026
 
- I started working on the Numpad which was easy compared to the keyboard i finished the wiring and the mousebites and started the BOM
+ I started working on the Numpad which was easy compared to the keyboard i finished the wiring and the mousebites and started the BOM. when i started the BOM my teammate threw in a lot of new things so i had to redo the BOM again. I was pretty lazy to do that so i ended up taking the parts from the old BOM
+
+ 
